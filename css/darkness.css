@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+}
+a {
+    color:white;
+}
+
+.firstsection {
+    filter: brightness(90%);
+}
+
+.secondsection__heading {
+    color:white;
+}
+.secondsection__underheading {
+    color:white;
+}
+.secondsection__textunderimg {
+    color:white;
+}
+.secondsection__img {
+    filter: brightness(90%);
+}
+
+.notice {
+    filter: brightness(90%);
+}
+.secondsection__seemore {
+    filter: brightness(90%);
+}
